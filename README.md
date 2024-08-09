@@ -4,7 +4,7 @@
 - Detects: Software banners that may reveal sensitive information.
 - Color:
   - Green for present headers and safe banners.
-  - Red for missing headers or dangerous banners.
+  - Red for missing headers.
 
 ### Usage:
 - -u or `--url`: Base URL of the target site.
