@@ -1,5 +1,4 @@
-### HeaderScanner: Header and Banner Verification
-
+### HeaderScanner
 **HeaderScanner** performs checks for security headers and software banners on websites. The script identifies if essential headers are present and detects banners that may expose sensitive information about the server and the technologies used.
 
 - **Checks**: Essential security headers.
